@@ -12,13 +12,6 @@ Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="discord.com/users/1314003248432021536">
-        <img 
-            alt="discord" 
-            title="perfil do discord" 
-            src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
-        />
-    </a> 
     <a href="contatosarams@gmail.com">
         <img 
             alt="email" 
