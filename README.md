@@ -2,7 +2,7 @@
 
 **`Desenvolvedora back-end e cientista de dados`**
 
-Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Rio. Atualmente, estou cursando pós-graduação em Ciência de dados pela Descomplica Faculdade Digital e estou estudando Java, HTML e CSS pela Alura. Sou apaixonada por tecnologia. Já atuei como professora informática e programação com foco em Javascript e Python. Pretendo me especializar em Arquitetura de Software e Machine Learning.
+Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada em Análise e Desenvolvimento de Sistemas pela Faculdade Senac Rio. Atualmente, estou cursando pós-graduação em Ciência de dados pela Descomplica Faculdade Digital e estou me especializando em Java pela Alura. Sou apaixonada por tecnologia. Já atuei como professora informática e programação com foco em Javascript e Python. Pretendo me especializar em Arquitetura de Software e Machine Learning.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/saramcsantos/">
@@ -30,18 +30,61 @@ Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
-<img 
-    align="left" 
-    alt="linguagens e tecnologias"
-    title="linguagens e tecnologias" 
-    width="250px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git" 
-/>
-<br/>
-<br/>
+<p align="left">
+    <a href="https://docs.oracle.com/en/java/">
+        <img 
+            alt="java" 
+            title="java" 
+            src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+        />
+    </a>
+    <a href="https://www.python.org/doc/">
+        <img 
+            alt="python" 
+            title="python" 
+            src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+        />
+    </a>
+</p>
+
+---
+
+### ⚙️ Bibliotecas
+
+<p align="left">
+    <a href="https://pandas.pydata.org/">
+        <img 
+            alt="pandas" 
+            title="pandas" 
+            src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+        />
+    </a>
+     <a href="https://numpy.org/">
+        <img 
+            alt="numpy" 
+            title="numpy" 
+            src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"
+        />
+    </a>
+    <a href="https://matplotlib.org/">
+        <img 
+            alt="matplotlib" 
+            title="matplotlib" 
+            src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"
+        />
+    </a>
+    <a href="https://scipy.org/">
+        <img 
+            alt="scipy" 
+            title="scipy" 
+            src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"
+        />
+    </a>
+</p>
+
+---
 
 ### 💻Ambiente de desenvolvimento integrado e editor de código
 
@@ -75,15 +118,3 @@ Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada
     </a>
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=saramcsantos&show_icons=true&theme=dark" 
-  />
-</p>
