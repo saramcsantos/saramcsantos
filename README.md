@@ -12,7 +12,7 @@ Me chamo Sara Santos, tenho 30 anos e sou natural do Rio de Janeiro. Sou formada
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="contatosarams@gmail.com">
+    <a href="mailto: contatosarams@gmail.com">
         <img 
             alt="email" 
             title="email para contato" 
